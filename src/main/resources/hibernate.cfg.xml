@@ -27,5 +27,6 @@
         <mapping class="web.entities.Student"/>
         <mapping class="web.entities.Course"/>
         <mapping class="web.entities.Teacher"/>
+        <mapping class="web.entities.StudentCourses"/>
     </session-factory>
 </hibernate-configuration>

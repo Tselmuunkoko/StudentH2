@@ -1,4 +1,4 @@
-package web.facade;
+package EJBtest;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

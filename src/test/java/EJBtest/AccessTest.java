@@ -1,4 +1,4 @@
-package web.facade;
+package EJBtest;
 
 import java.sql.*;
 public class AccessTest {

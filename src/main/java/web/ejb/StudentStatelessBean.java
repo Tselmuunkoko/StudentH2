@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Stateless
-@Remote(StudentStateless.class)
+//@Remote(StudentStateless.class)
 public class StudentStatelessBean implements StudentStateless{
     @PersistenceContext(unitName="default")
     private EntityManager entityManager;

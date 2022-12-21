@@ -8,7 +8,8 @@
     <artifactId>StudentH2</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>StudentH2</name>
-    <packaging>war</packaging>
+    <packaging>ejb</packaging>
+<!--    <packaging>ejb</packaging>-->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,7 +17,6 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <junit.version>5.8.2</junit.version>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>javax</groupId>

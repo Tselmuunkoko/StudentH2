@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="28c6b202-a925-4469-8268-4d45fe2e5598" />
+          <option name="name" value="StudentHibernate (DDL)" />
+          <option name="languageId" value="H2" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

@@ -3,7 +3,6 @@ package web.ejb;
 import web.DTOs.CourseDTO;
 import web.DTOs.CourseTeacherDTO;
 import web.DTOs.StudentDTO;
-import javax.ejb.Remote;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
